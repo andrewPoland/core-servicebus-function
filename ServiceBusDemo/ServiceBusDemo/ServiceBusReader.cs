@@ -1,10 +1,5 @@
-using System.Text;
-using Microsoft.Azure.ServiceBus;
-using Microsoft.Azure.ServiceBus.InteropExtensions;
 using Microsoft.Azure.WebJobs;
-using Microsoft.Azure.WebJobs.Host;
 using Microsoft.Extensions.Logging;
-using Newtonsoft.Json;
 
 namespace ServiceBusDemo
 {
